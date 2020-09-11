@@ -1,0 +1,6 @@
+framework module Pods_menuApp {
+  umbrella header "Pods-menuApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

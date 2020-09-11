@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-menuApp/Pods-menuApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CropViewController/CropViewController.framework
+${BUILT_PRODUCTS_DIR}/SwiftyTesseract/SwiftyTesseract.framework
